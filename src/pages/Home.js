@@ -8,7 +8,7 @@ import Header from "../components/Header/Header";
 
 import RepoService from "../service/RepoService";
 import "../styles/pages/Home.scss";
-import TestingChart from "./HomeCharts.js";
+// import TestingChart from "./HomeCharts.js";
 
 export default function Home() {
   const [data, setData] = useState([]);
